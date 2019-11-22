@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Score</string>
+    <string name="add1">+1</string>
+    <string name="add2">+2</string>
+    <string name="add3">+3</string>
+    <string name="scroe_a" />
+    <string name="scroe_b" />
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="pictrue" />
+</resources>
